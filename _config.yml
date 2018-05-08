@@ -4,7 +4,7 @@ url: accounting.streamdata.gallery
 tag: Accounting
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-type
+github_user: streamdata-gallery-topics
 github_repo: accounting
 github_branch: master
 collections:
