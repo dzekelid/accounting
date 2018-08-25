@@ -1,28 +1,33 @@
 ---
 name: Harvest
-description: 'Harvest is a provider of time tracking and online invoicing services
-  for  freelancers and small businesses. Harvest focuses on providing simple to use
-  web-based software for professional services.  Customers range from freelancers
-  to creative services businesses, to team within Fortune 500 organizations and non-profits.
-  Harvest is offered as a web-based software-as-a-service but it is accessible from
-  a variety of platforms and devices including: web browsers, desktop widgets, iPhone,
-  Twitter, and SMS.'
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/421_logo.png
+x-slug: harvest
+description: Simple time tracking, fast online invoicing, and powerful reporting software.
+  Simplify employee timesheets and billing. Get started for free.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/421-harvest.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Time Tracking
-- Tasking
-- Target
-- Stack Network
-- Project Management
-- Contact Management
-- Accounting
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/accounting/master/_listings/harvest/apis.yaml
+x-alexaRank: "27660"
+tags: Accounting
+created: "2018-08-24"
+modified: "2018-08-24"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/harvest/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Harvest
+  x-api-slug: harvest
+  description: Harvest provides two API interfaces, serving two distinct roles. If
+    you need to access and manipulate your daily timesheet the Time Tracking API fits
+    the bill. Notable uses of the Time Tracking API are the widgets we provide for
+    PC and Mac as well as other third party timesheet software integrations.  If you
+    need to access and edit your projects, clients, users and tasks the extended API
+    is your choice. You can use this to mass import your existing projects setup,
+    add users and generally integrate with your existing back-office setup.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/421-harvest.jpg
+  humanURL: http://www.getharvest.com
+  baseURL: https:///
+  tags: Accounting
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/harvest/openapi.md
 x-common:
 - type: x-base
   url: https://www.getharvest.com/api/
@@ -32,8 +37,20 @@ x-common:
   url: http://feeds2.feedburner.com/harvest
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/harvest
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/harvest
 - type: x-developer
   url: http://www.getharvest.com/api/
+- type: x-email
+  url: support@harvestapp.com
+- type: x-email
+  url: sales@harvestapp.com
+- type: x-email
+  url: privacy@getharvest.com
+- type: x-email
+  url: tos@getharvest.com
+- type: x-email
+  url: press@getharvest.com
 - type: x-github
   url: https://github.com/harvesthq
 - type: x-twitter

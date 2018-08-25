@@ -1,31 +1,45 @@
 ---
 name: Subledger
-description: Accounting engine for developers. We automate bookkeeping for your application.
-  Subledger is a modern double-entry ledger and financial report API for mobile and
-  web app developers. Subledgerrsquo;s purpose is to give developers the tools to
-  maintain more accurate, detailed and actionable financial information than they
-  would if they built it themselves.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/subledger.png
+x-slug: subledger
+description: Subledger is like Google Analytics for money. Add Subledger code snippets
+  to your application and financial events will be accounted for as they happen. Now
+  you can see whats driving (or not driving) your profit without running monthly database
+  querie...
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2726-subledger.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Target
-- Stack Network
-- Finance
-- Accounting
-- Accounting
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/accounting/master/_listings/subledger/apis.yaml
+x-alexaRank: "5831693"
+tags: Accounting
+created: "2018-08-24"
+modified: "2018-08-24"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/subledger/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Subledger API
+  x-api-slug: subledger-api
+  description: Subledger is like Google Analytics for money. Add Subledger code snippets
+    to your application and financial events will be accounted for as they happen.
+    Now you can see whats driving (or not driving) your profit without running monthly
+    database querie...
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2726-subledger.jpg
+  humanURL: http://subledger.com
+  baseURL: https:///
+  tags: Accounting
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/subledger/openapi.md
 x-common:
 - type: x-base
   url: https://api.subledger.com
 - type: x-blog
   url: http://subledger.com/blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/subledger
 - type: x-developer
   url: https://api.subledger.com/v2/index.html
+- type: x-email
+  url: tom@subledger.com
+- type: x-email
+  url: support@subledger.com
 - type: x-email
   url: info@subledger.com
 - type: x-twitter
