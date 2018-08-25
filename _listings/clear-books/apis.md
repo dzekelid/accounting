@@ -9,24 +9,11 @@ image: ""
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Accounting
-created: "2018-08-24"
-modified: "2018-08-24"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/clear-books/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Clear Books
-  x-api-slug: clear-books
-  description: Clear Books is simple, award-winning cloud accounting software designed
-    to help you save time so you can focus on growing your business. All your data
-    is hosted securely online, so you can access your information and collaborate
-    with your colleagues and accountant anywhere, any time.
-  image: ""
-  humanURL: http://www.clearbooks.co.uk
-  baseURL: https:///
-  tags: Accounting
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/clear-books/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.clearbooks.co.uk/blog/

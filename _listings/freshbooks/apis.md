@@ -7,23 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/204-freshb
 x-kinRank: "8"
 x-alexaRank: "6598"
 tags: Accounting
-created: "2018-08-24"
-modified: "2018-08-24"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/freshbooks/apis.md
 specificationVersion: "0.14"
-apis:
-- name: FreshBooks
-  x-api-slug: freshbooks
-  description: The FreshBooks API is an interface for accessing your FreshBooks account
-    data using HTTP and XML. The API makes it easy to create web and desktop applications
-    that integrate with your account.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/204-freshbooks.jpg
-  humanURL: http://freshbooks.com/
-  baseURL: https:///
-  tags: Accounting
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/freshbooks/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: https://*.freshbooks.com/

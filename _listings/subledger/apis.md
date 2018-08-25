@@ -9,24 +9,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2726-suble
 x-kinRank: "8"
 x-alexaRank: "5831693"
 tags: Accounting
-created: "2018-08-24"
-modified: "2018-08-24"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/subledger/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Subledger API
-  x-api-slug: subledger-api
-  description: Subledger is like Google Analytics for money. Add Subledger code snippets
-    to your application and financial events will be accounted for as they happen.
-    Now you can see whats driving (or not driving) your profit without running monthly
-    database querie...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2726-subledger.jpg
-  humanURL: http://subledger.com
-  baseURL: https:///
-  tags: Accounting
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/subledger/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: https://api.subledger.com

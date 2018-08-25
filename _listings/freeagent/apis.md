@@ -8,23 +8,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/407-freeag
 x-kinRank: "7"
 x-alexaRank: "26434"
 tags: Accounting
-created: "2018-08-24"
-modified: "2018-08-24"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/freeagent/apis.md
 specificationVersion: "0.14"
-apis:
-- name: FreeAgent
-  x-api-slug: freeagent
-  description: FreeAgents online accounting software brings everything together, from
-    invoices and expenses to VAT, payroll and tax return filing. Start a free trial
-    today!
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/407-freeagent.jpg
-  humanURL: http://www.freeagent.com/
-  baseURL: https:///
-  tags: Accounting
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/freeagent/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.freeagent.com/central

@@ -7,35 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/279-xero.j
 x-kinRank: "8"
 x-alexaRank: "2158"
 tags: Accounting
-created: "2018-08-24"
-modified: "2018-08-24"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/xero/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Clarity Accounting
-  x-api-slug: clarity-accounting
-  description: Xero is the QuickBooks alternative. Use Xero accounting software to
-    manage invoicing, bank reconciliation, bookkeeping & more. Start a free trial
-    today!
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/279-xero.jpg
-  humanURL: http://www.xero.com/
-  baseURL: https://api.xero.com//api.xro/2.0
-  tags: Accounting
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/xero/openapi.md
-- name: Xero oAuth 1a
-  x-api-slug: xero-oauth-1a
-  description: Xero is the QuickBooks alternative. Use Xero accounting software to
-    manage invoicing, bank reconciliation, bookkeeping & more. Start a free trial
-    today!
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/279-xero.jpg
-  humanURL: http://www.xero.com/
-  baseURL: https://api.xero.com//
-  tags: Accounting
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/xero/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://wordnik.api.gallery.streamdata.io

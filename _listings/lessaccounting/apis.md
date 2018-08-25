@@ -7,22 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/432-lessac
 x-kinRank: "7"
 x-alexaRank: "338057"
 tags: Accounting
-created: "2018-08-24"
-modified: "2018-08-24"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/lessaccounting/apis.md
 specificationVersion: "0.14"
-apis:
-- name: LessAccounting
-  x-api-slug: lessaccounting
-  description: All accounting software sucks, we just suck the least.   Small business
-    bookkeeping made super easy.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/432-lessaccounting.jpg
-  humanURL: http://lessaccounting.com
-  baseURL: https:///
-  tags: Accounting
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/lessaccounting/openapi.md
+apis: []
 x-common:
 - type: x-base-url
   url: https://lessaccounting.com
