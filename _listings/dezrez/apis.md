@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-
 x-kinRank: "7"
 x-alexaRank: "385559"
 tags: Accounting
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/dezrez/apis.md
 specificationVersion: "0.14"
 apis:
@@ -85,6 +85,59 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/dezrez/apiaccountingsystemsuspense-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/dezrez/apiaccountingsystemsuspense-get-openapi.md
+- name: Dezrez.Rezi.Client.Api - Create an office account for the accounting system
+  x-api-slug: apiaccountingsystemcreateofficeaccount-post
+  description: Create an office account for the accounting system.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/dezrez/apiaccountingsystemcreateofficeaccount-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Get list of office accounts associated with the accounting
+    system
+  x-api-slug: apiaccountingsystemofficeaccounts-get
+  description: Get list of office accounts associated with the accounting system.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/dezrez/apiaccountingsystemofficeaccounts-get-openapi.md
+- name: Dezrez.Rezi.Client.Api - Get uncleared items in accounting system
+  x-api-slug: apipostinguncleared-post
+  description: Get uncleared items in accounting system.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/dezrez/apipostinguncleared-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Set default tax rate for the accounting system
+  x-api-slug: apitaxidsetasdefault-post
+  description: Set default tax rate for the accounting system.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/dezrez/apitaxidsetasdefault-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Set Primary Bank Account for Accounting System
+  x-api-slug: apiaccountingsystemsetprimaryaccount-post
+  description: Set primary bank account for accounting system.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-openapi.md
 - name: Dezrez.Rezi.Client.Api - Set Primary Bank Account for Accounting System
   x-api-slug: apiaccountingsystemsetprimaryaccount-post
   description: Set primary bank account for accounting system.

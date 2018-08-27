@@ -1,693 +1,189 @@
 {
-	"name": "Dezrez",
-	"x-slug": "dezrez",
-	"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
-	"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-	"x-kinRank": "7",
-	"x-alexaRank": "385559",
-	"tags": "Accounting",
-	"created": "2018-08-24",
-	"modified": "2018-08-24",
-	"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apis.md",
+	"name": "Streadata.io API Gallery - Accounting",
+	"description": "This is a repository of accounting APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/accounting.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://accounting.streamdata.gallery/apis.json",
 	"specificationVersion": "0.14",
 	"apis": [
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"name": "FreshBooks",
+			"x-api-slug": "freshbooks",
+			"description": "The best cloud based small business accounting software. Send invoices, track time, manage receipts, expenses, and accept credit cards. Free 30-day trial.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/204-freshbooks.jpg",
+			"humanURL": "http://freshbooks.com/",
+			"baseURL": "https:///",
+			"tags": "Accounting",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-postman.md"
-				},
-				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/freshbooks/openapi.md"
 				}
 			]
 		},
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"name": "Xero",
+			"x-api-slug": "xero",
+			"description": "Xero is the QuickBooks alternative. Use Xero accounting software to manage invoicing, bank reconciliation, bookkeeping & more. Start a free trial today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/279-xero.jpg",
+			"humanURL": "http://www.xero.com/",
+			"baseURL": "https://api.xero.com//",
+			"tags": "Accounting",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-postman.md"
-				},
-				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/xero/openapi.md"
 				}
 			]
 		},
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"name": "Clear Books",
+			"x-api-slug": "clear-books",
+			"description": "Clear Books is simple, award-winning cloud accounting software designed to help you save time so you can focus on growing your business. All your data is hosted securely online, so you can access your information and collaborate with your colleagues and accountant anywhere, any time.",
+			"image": "",
+			"humanURL": "http://www.clearbooks.co.uk",
+			"baseURL": "https:///",
+			"tags": "Accounting",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-postman.md"
-				},
-				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/clear-books/openapi.md"
 				}
 			]
 		},
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"name": "FreeAgent",
+			"x-api-slug": "freeagent",
+			"description": "FreeAgents online accounting software brings everything together, from invoices and expenses to VAT, payroll and tax return filing. Start a free trial today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/407-freeagent.jpg",
+			"humanURL": "http://www.freeagent.com/",
+			"baseURL": "https:///",
+			"tags": "Accounting",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-postman.md"
-				},
-				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-put-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-put-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/freeagent/openapi.md"
 				}
 			]
 		},
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"name": "Harvest",
+			"x-api-slug": "harvest",
+			"description": "Simple time tracking, fast online invoicing, and powerful reporting software. Simplify employee timesheets and billing. Get started for free.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/421-harvest.jpg",
+			"humanURL": "http://www.getharvest.com",
+			"baseURL": "https:///",
+			"tags": "Accounting",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-postman.md"
-				},
-				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-put-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-put-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemtaxstatus-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemtaxstatus-get-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/harvest/openapi.md"
 				}
 			]
 		},
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"name": "LessAccounting",
+			"x-api-slug": "lessaccounting",
+			"description": "All accounting software sucks, we just suck the least.   Small business bookkeeping made super easy.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/432-lessaccounting.jpg",
+			"humanURL": "http://lessaccounting.com",
+			"baseURL": "https:///",
+			"tags": "Accounting",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-postman.md"
-				},
-				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-put-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-put-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemtaxstatus-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemtaxstatus-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsuspense-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsuspense-get-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/lessaccounting/openapi.md"
 				}
 			]
 		},
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"name": "Shoeboxed",
+			"x-api-slug": "shoeboxed",
+			"description": "The fast, easy way to turn receipts into an organized, categorized, and IRS-accepted online archive. Join the one million small businesses saving time and money with Shoeboxed.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/480-shoeboxed.jpg",
+			"humanURL": "http://shoeboxed.com",
+			"baseURL": "https:///",
+			"tags": "Accounting",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-postman.md"
-				},
-				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-put-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-put-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemtaxstatus-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemtaxstatus-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsuspense-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsuspense-get-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemcreateofficeaccount-post-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/shoeboxed/openapi.md"
 				}
 			]
 		},
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"name": "Cobot",
+			"x-api-slug": "cobot",
+			"description": "Cobot is the leading management software for coworking spaces, office hubs, and flexible workspaces around the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1374-cobot.jpg",
+			"humanURL": "https://www.cobot.me",
+			"baseURL": "https:///",
+			"tags": "Accounting",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-postman.md"
-				},
-				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-put-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-put-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemtaxstatus-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemtaxstatus-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsuspense-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsuspense-get-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemcreateofficeaccount-post-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemofficeaccounts-get-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/cobot/openapi.md"
 				}
 			]
 		},
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"name": "Subledger",
+			"x-api-slug": "subledger",
+			"description": "Subledger is like Google Analytics for money. Add Subledger code snippets to your application and financial events will be accounted for as they happen. Now you can see whats driving (or not driving) your profit without running monthly database querie...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2726-subledger.jpg",
+			"humanURL": "http://subledger.com",
+			"baseURL": "https:///",
+			"tags": "Accounting",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-postman.md"
-				},
-				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-put-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-put-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemtaxstatus-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemtaxstatus-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsuspense-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsuspense-get-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemcreateofficeaccount-post-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemofficeaccounts-get-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apipostinguncleared-post-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/subledger/openapi.md"
 				}
 			]
 		},
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"name": "Intuit",
+			"x-api-slug": "intuit",
+			"description": "See how the power of Intuit Giants can work for you by joining the over 46 million people already using TurboTax, QuickBooks and Mint to power their financial prosperity.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9544-intuit.jpg",
+			"humanURL": "https://intuit.com",
+			"baseURL": "https://DefaultParameterValue//v3/company/DefaultParameterValue",
+			"tags": "Accounting",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-postman.md"
-				},
-				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-put-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-put-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemtaxstatus-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemtaxstatus-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsuspense-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsuspense-get-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemcreateofficeaccount-post-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemofficeaccounts-get-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apipostinguncleared-post-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apitaxidsetasdefault-post-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/intuit/openapi.md"
 				}
 			]
 		},
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"name": "Flood IO",
+			"x-api-slug": "flood-io",
+			"description": "Tricentis Flood lets you run distributed load tests across the globe with JMeter or Gatling. Use our On Demand infrastructure or Host Your Own cloud.",
+			"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png",
+			"humanURL": "https://flood.io/",
+			"baseURL": "https:///",
+			"tags": "Accounting",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-postman.md"
-				},
-				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-put-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-put-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemtaxstatus-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemtaxstatus-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsuspense-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsuspense-get-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemcreateofficeaccount-post-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemofficeaccounts-get-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apipostinguncleared-post-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apitaxidsetasdefault-post-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/flood-io/openapi.md"
 				}
 			]
 		},
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"name": "Plentymarkets",
+			"x-api-slug": "plentymarkets",
+			"description": "plentymarkets is an all-in-one e-commerce ERP solution, which combines a comprehensive stock management system with a versatile shop system and effortless multichannel sales. Thanks to comprehensive functions and interfaces that include all steps of the e-commerce value chain, you can use the cloud based software to completely automate all of your e-business processes as well as your companys own individual processes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png",
+			"humanURL": "http://www.plentymarkets.co.uk",
+			"baseURL": "https://example.com//",
+			"tags": "Accounting",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-postman.md"
-				},
-				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountsystemaccount-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystem-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-put-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsystembalance-put-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemtaxstatus-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemtaxstatus-get-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsuspense-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsuspense-get-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemcreateofficeaccount-post-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemofficeaccounts-get-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apipostinguncleared-post-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apitaxidsetasdefault-post-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/plentymarkets/openapi.md"
 				}
 			]
 		},
@@ -695,59 +191,71 @@
 			"name": "Dezrez",
 			"x-api-slug": "dezrez",
 			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
 			"tags": "Accounting",
 			"properties": [
 				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/accounting\/master\/_listings\/dezrez\/openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/dezrez/openapi.md"
 				}
 			]
 		}
 	],
-	"x-common": [
-		{
-			"type": "x-github",
-			"url": "https:\/\/github.com\/dezrez"
-		},
-		{
-			"type": "x-openapi",
-			"url": "https:\/\/api.dezrez.com:443\/swagger\/docs\/v1"
-		},
-		{
-			"type": "x-api-gallery",
-			"url": "http:\/\/datumbox.api.gallery.streamdata.io"
-		},
-		{
-			"type": "x-api-stack",
-			"url": "http:\/\/dezrez.stack.network"
-		},
-		{
-			"type": "x-documentation",
-			"url": "https:\/\/api.dezrez.com\/swagger\/ui\/index#!\/AccountingExport"
-		},
-		{
-			"type": "x-support",
-			"url": "https:\/\/www.dezrez.com\/uk\/estate-agency-software-support"
-		},
-		{
-			"type": "x-twitter",
-			"url": "https:\/\/twitter.com\/dezrezsoftware"
-		},
-		{
-			"type": "x-website",
-			"url": "https:\/\/www.dezrez.com"
-		}
-	],
+	"tags": "Accounting",
 	"include": [
-	],
-	"maintainers": [
 		{
-			"FN": "Kin Lane",
-			"x-twitter": "apievangelist",
-			"email": "info@apievangelist.com"
+			"name": "FreshBooks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/freshbooks/apis.yaml"
+		},
+		{
+			"name": "Xero",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/xero/apis.yaml"
+		},
+		{
+			"name": "Clear Books",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/clear-books/apis.yaml"
+		},
+		{
+			"name": "FreeAgent",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/freeagent/apis.yaml"
+		},
+		{
+			"name": "Harvest",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/harvest/apis.yaml"
+		},
+		{
+			"name": "LessAccounting",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/lessaccounting/apis.yaml"
+		},
+		{
+			"name": "Shoeboxed",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/shoeboxed/apis.yaml"
+		},
+		{
+			"name": "Cobot",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/cobot/apis.yaml"
+		},
+		{
+			"name": "Subledger",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/subledger/apis.yaml"
+		},
+		{
+			"name": "Intuit",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/intuit/apis.yaml"
+		},
+		{
+			"name": "Flood IO",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/flood-io/apis.yaml"
+		},
+		{
+			"name": "Plentymarkets",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/plentymarkets/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/accounting/master/_listings/dezrez/apis.yaml"
 		}
 	]
 }
